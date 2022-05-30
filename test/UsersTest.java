@@ -1,10 +1,8 @@
-import jakarta.persistence.Persistence;
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
 
 import com.bookstore.entity.Users;
-
-
 public class UsersTest {
 
 	public static void main(String[] args) {

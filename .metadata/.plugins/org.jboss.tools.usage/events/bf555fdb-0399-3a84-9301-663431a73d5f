@@ -1,11 +1,11 @@
-#Sun May 29 00:36:54 EEST 2022
+#Mon May 30 21:40:59 EEST 2022
 a=finishWizard
 c=0
 cl=org.eclipse.ui.wizards.datatransfer.ExternalProjectImportWizard
 cmp=usage
 ct=jbt
-d=1653773814098
+d=1653936059497
 l=Wizard class name
-s=1
+s=0
 v=2.2.400
 vl=How many times the 'Finish' button pressed during the day
