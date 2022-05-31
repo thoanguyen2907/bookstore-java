@@ -3,6 +3,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 
 import com.bookstore.entity.Users;
+
 public class UsersTest {
 
 	public static void main(String[] args) {
